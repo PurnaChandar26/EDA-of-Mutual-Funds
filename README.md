@@ -85,4 +85,4 @@ Evaluated the Sharpe ratio of mutual funds to gauge their risk-adjusted returns.
 Examined the Sortino ratio of mutual funds to assess their risk-adjusted returns with a focus on downside risk.
 
 ## Disclaimer
-Mutual fund investments are subject to market risk. This notebook is for educational purposes only, and it is essential to consult with a financial advisor or expert before making any investment decisions in mutual funds. The information provided in this analysis is based on historical data and should not be considered as financial advice or a recommendation for investment.
+Mutual fund investments are subject to market risk. This notebook is for educational purposes only, and it is essential to consult with a financial advisor or expert before making any investment decisions in mutual funds. The information provided in this analysis is based on historical data and should not be considered as financial advice or a recommendation for investment. 
