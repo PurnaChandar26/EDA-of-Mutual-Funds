@@ -1,7 +1,7 @@
 # EDA of Mutual Funds
 
 ## Introduction
-This GitHub repository contains an Exploratory Data Analysis (EDA) of mutual funds using a dataset that provides various attributes of mutual funds. The dataset includes information such as scheme name, minimum investment requirements, expense ratio, fund size, fund age, fund manager details, and performance metrics over different time periods. In this analysis, I explored and analyzed the dataset to gain insights into the mutual fund industry.
+This GitHub repository contains an Exploratory Data Analysis (EDA) of mutual funds using a dataset that provides various attributes of mutual funds. The dataset includes information such as scheme name, minimum investment requirements, expense ratio, fund size, fund age, fund manager details, and performance metrics over different time periods. In this analysis, I explored and analyzed the dataset to gain insights into the mutual fund industry. 
 
 ## Dataset Overview
 Let's begin by understanding the structure of the dataset:
