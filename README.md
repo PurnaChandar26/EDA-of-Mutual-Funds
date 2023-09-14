@@ -3,7 +3,7 @@
 ## Introduction
 The Exploratory Data Analysis (EDA) of mutual funds using a dataset that provides various attributes of mutual funds. The dataset includes information such as scheme name, minimum investment requirements, expense ratio, fund size, fund age, fund manager details, and performance metrics over different time periods. In this analysis, I explored and analyzed the dataset to gain insights into the mutual fund industry. 
 
-Check out the "EDA Findings" pdf from the above files to see what are all results, conclusions and findings that are found using EDA by me
+### Please explore the 'EDA Findings' PDF in the files above to discover the insightful results, conclusions, and findings uncovered through my EDA efforts.
 ## Dataset Overview
 Let's begin by understanding the structure of the dataset:
 
