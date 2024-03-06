@@ -34,11 +34,15 @@ In this EDA, I performed the following analyses:
 
 ### 1. Top 10 Fund Managers by 5-Year Returns
 Identified and listed the top 10 fund managers based on the average 5-year returns of their managed funds.
+
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/f7e65c71-cff0-4221-9932-2613a8c3083c)
 
 
 ### 2. Top 5 Fund Managers in Each Category by Average 5-Year Returns
 Categorized funds by type (Equity, Debt, Hybrid) and listed the top 5 fund managers in each category based on the average 5-year returns of their funds.
+
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/500c429e-076b-45b9-a3fe-e62357fa541e)
+
 
 ### 3. Top 10 Fund Managers by Number of Schemes
 Determined and listed the top 10 fund managers with the highest number of mutual fund schemes under their management.
