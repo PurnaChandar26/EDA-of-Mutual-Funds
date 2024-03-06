@@ -47,6 +47,9 @@ Categorized funds by type (Equity, Debt, Hybrid) and listed the top 5 fund manag
 ### 3. Top 10 Fund Managers by Number of Schemes
 Determined and listed the top 10 fund managers with the highest number of mutual fund schemes under their management.
 
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/0cc8489d-c221-4ced-a96a-6a86988006c4)
+
+
 ### 4. Top 10 Fund Managers by Oldest Schemes
 Identified and listed the top 10 fund managers whose schemes had been active for the longest duration.
 
