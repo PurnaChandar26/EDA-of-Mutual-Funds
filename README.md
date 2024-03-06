@@ -53,6 +53,9 @@ Determined and listed the top 10 fund managers with the highest number of mutual
 ### 4. Top 10 Fund Managers by Oldest Schemes
 Identified and listed the top 10 fund managers whose schemes had been active for the longest duration.
 
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/f7c4b99a-32d3-4e52-83fc-9961763c1d4c)
+
+
 ### 5. Top 10 Fund Managers with the Highest Assets Under Management (AUM)
 Ranked the top 10 fund managers based on the total assets under management across their schemes.
 
