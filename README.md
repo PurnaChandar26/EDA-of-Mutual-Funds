@@ -59,8 +59,13 @@ Identified and listed the top 10 fund managers whose schemes had been active for
 ### 5. Top 10 Fund Managers with the Highest Assets Under Management (AUM)
 Ranked the top 10 fund managers based on the total assets under management across their schemes.
 
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/03bc1ee8-9176-4809-bacd-cfa85b5f2a50)
+
+
 ### 6. SIP and Lump Sum Investment Requirements by Category
 Analyzed and compared the minimum SIP and lump sum investment requirements across different fund categories.
+
+
 
 ### 7. Expense Ratio Variation Across Different Fund Size Groups and Categories
 Examined how the expense ratio varied across different fund size groups and categories.
@@ -74,8 +79,14 @@ Analyzed the distribution of fund ages to understand the landscape of mutual fun
 ### 10. Analysis on Risk Level
 Examined the distribution of mutual funds based on their risk levels.
 
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/93854552-8b1b-4760-92f8-8d7ceb55b171)
+
+
 ### 11. Analysis on Asset Management Companies (AMCs)
 Provided insights into the distribution of mutual funds among different asset management companies.
+
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/f1f650ca-e357-4d3d-a0db-84041930af19)
+
 
 ### 12. Analysis of Fund Ratings
 Investigated the distribution of fund ratings to assess the overall quality of the funds.
