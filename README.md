@@ -31,6 +31,27 @@ Let's begin by understanding the structure of the dataset:
 
 ## Key Findings
 
+
+### 10. Analysis on Risk Level
+Examined the distribution of mutual funds based on their risk levels.
+
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/93854552-8b1b-4760-92f8-8d7ceb55b171)
+
+### 11. Analysis on Asset Management Companies (AMCs)
+Provided insights into the distribution of mutual funds among different asset management companies.
+
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/f1f650ca-e357-4d3d-a0db-84041930af19)
+
+### 13. Analysis on Fund Categories and Sub-Categories
+Explored the distribution of mutual funds across different categories and sub-categories.
+
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/94d449da-b32b-4409-b2d6-cf7483a73684)
+
+### 15. Analysis of Standard Deviation (SD)
+Examined the standard deviation of fund returns to assess their volatility.
+
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/9ecbed66-d117-4ee4-bf96-4e86de4bcd86)
+
 ### 1. Top 10 Fund Managers by 5-Year Returns
 Identified and listed the top 10 fund managers based on the average 5-year returns of their managed funds.
 
@@ -75,34 +96,21 @@ Explored the distribution of fund sizes within the dataset.
 ### 9. Analysis on Fund Age
 Analyzed the distribution of fund ages to understand the landscape of mutual funds in the dataset.
 
-### 10. Analysis on Risk Level
-Examined the distribution of mutual funds based on their risk levels.
-
-![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/93854552-8b1b-4760-92f8-8d7ceb55b171)
 
 
-### 11. Analysis on Asset Management Companies (AMCs)
-Provided insights into the distribution of mutual funds among different asset management companies.
 
-![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/f1f650ca-e357-4d3d-a0db-84041930af19)
 
 
 ### 12. Analysis of Fund Ratings
 Investigated the distribution of fund ratings to assess the overall quality of the funds.
 
-### 13. Analysis on Fund Categories and Sub-Categories
-Explored the distribution of mutual funds across different categories and sub-categories.
 
-![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/94d449da-b32b-4409-b2d6-cf7483a73684)
 
 
 ### 14. Analysis of Alpha
 Analyzed the alpha values of mutual funds to assess their performance relative to benchmarks.
 
-### 15. Analysis of Standard Deviation (SD)
-Examined the standard deviation of fund returns to assess their volatility.
 
-![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/9ecbed66-d117-4ee4-bf96-4e86de4bcd86)
 
 
 ### 16. Analysis of Beta
