@@ -32,7 +32,7 @@ Let's begin by understanding the structure of the dataset:
 ## Key EDA Findings:
 
 
-### 1. Analysis on Risk Level
+### 1. Analysis on Risk Level:
 Examined the distribution of mutual funds based on their risk levels.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/93854552-8b1b-4760-92f8-8d7ceb55b171)
