@@ -29,8 +29,7 @@ Let's begin by understanding the structure of the dataset:
 - **returns_5yr:** The return of the fund in the past 5 years.
  
 
-## Analysis Goals
-In this EDA, I performed the following analyses:
+## Key Findings
 
 ### 1. Top 10 Fund Managers by 5-Year Returns
 Identified and listed the top 10 fund managers based on the average 5-year returns of their managed funds.
