@@ -32,57 +32,46 @@ Let's begin by understanding the structure of the dataset:
 ## Key Findings
 
 
-### 10. Analysis on Risk Level
+### 1. Analysis on Risk Level
 Examined the distribution of mutual funds based on their risk levels.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/93854552-8b1b-4760-92f8-8d7ceb55b171)
 
-### 11. Analysis on Asset Management Companies (AMCs)
+### 2. Analysis on Asset Management Companies (AMCs)
 Provided insights into the distribution of mutual funds among different asset management companies.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/f1f650ca-e357-4d3d-a0db-84041930af19)
 
-### 13. Analysis on Fund Categories and Sub-Categories
+### 3. Analysis on Fund Categories and Sub-Categories
 Explored the distribution of mutual funds across different categories and sub-categories.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/94d449da-b32b-4409-b2d6-cf7483a73684)
 
-### 15. Analysis of Standard Deviation (SD)
+### 4. Analysis of Standard Deviation (SD)
 Examined the standard deviation of fund returns to assess their volatility.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/9ecbed66-d117-4ee4-bf96-4e86de4bcd86)
 
-### 1. Top 10 Fund Managers by 5-Year Returns
-Identified and listed the top 10 fund managers based on the average 5-year returns of their managed funds.
 
-![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/f7e65c71-cff0-4221-9932-2613a8c3083c)
-
-
-### 2. Top 5 Fund Managers in Each Category by Average 5-Year Returns
+### 5. Top 5 Fund Managers in Each Category by Average 5-Year Returns
 Categorized funds by type (Equity, Debt, Hybrid) and listed the top 5 fund managers in each category based on the average 5-year returns of their funds.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/500c429e-076b-45b9-a3fe-e62357fa541e)
 
 
-### 3. Top 10 Fund Managers by Number of Schemes
+### 6. Top 10 Fund Managers by Number of Schemes
 Determined and listed the top 10 fund managers with the highest number of mutual fund schemes under their management.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/0cc8489d-c221-4ced-a96a-6a86988006c4)
 
 
-### 4. Top 10 Fund Managers by Oldest Schemes
-Identified and listed the top 10 fund managers whose schemes had been active for the longest duration.
-
-![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/f7c4b99a-32d3-4e52-83fc-9961763c1d4c)
-
-
-### 5. Top 10 Fund Managers with the Highest Assets Under Management (AUM)
+### 7. Top 10 Fund Managers with the Highest Assets Under Management (AUM)
 Ranked the top 10 fund managers based on the total assets under management across their schemes.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/03bc1ee8-9176-4809-bacd-cfa85b5f2a50)
 
 
-### 6. SIP and Lump Sum Investment Requirements by Category
+### 8. SIP and Lump Sum Investment Requirements by Category
 Analyzed and compared the minimum SIP and lump sum investment requirements across different fund categories.
 
 
@@ -97,21 +86,11 @@ Explored the distribution of fund sizes within the dataset.
 Analyzed the distribution of fund ages to understand the landscape of mutual funds in the dataset.
 
 
-
-
-
-
 ### 12. Analysis of Fund Ratings
 Investigated the distribution of fund ratings to assess the overall quality of the funds.
 
-
-
-
 ### 14. Analysis of Alpha
 Analyzed the alpha values of mutual funds to assess their performance relative to benchmarks.
-
-
-
 
 ### 16. Analysis of Beta
 Analyzed the beta values of mutual funds to understand their sensitivity to market movements.
