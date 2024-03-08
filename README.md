@@ -59,46 +59,29 @@ Categorized funds by type (Equity, Debt, Hybrid) and listed the top 5 fund manag
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/500c429e-076b-45b9-a3fe-e62357fa541e)
 
 
-### 6. Top 10 Fund Managers by Number of Schemes
-Determined and listed the top 10 fund managers with the highest number of mutual fund schemes under their management.
-
-![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/0cc8489d-c221-4ced-a96a-6a86988006c4)
-
-
-### 7. Top 10 Fund Managers with the Highest Assets Under Management (AUM)
+### 6. Top 10 Fund Managers with the Highest Assets Under Management (AUM)
 Ranked the top 10 fund managers based on the total assets under management across their schemes.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/03bc1ee8-9176-4809-bacd-cfa85b5f2a50)
 
+### 7. Expense Ratio Variation Across Different Fund Size Groups and Categories
+Examined how the expense ratio varied across different fund size groups and categories.
+
+![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/ca207ffc-3190-4996-a2c6-6641b6ead908)
 
 ### 8. SIP and Lump Sum Investment Requirements by Category
 Analyzed and compared the minimum SIP and lump sum investment requirements across different fund categories.
 
-
-
-### 7. Expense Ratio Variation Across Different Fund Size Groups and Categories
-Examined how the expense ratio varied across different fund size groups and categories.
-
-### 8. Fund Size Distribution
-Explored the distribution of fund sizes within the dataset.
-
-### 9. Analysis on Fund Age
-Analyzed the distribution of fund ages to understand the landscape of mutual funds in the dataset.
-
-
-### 12. Analysis of Fund Ratings
-Investigated the distribution of fund ratings to assess the overall quality of the funds.
-
-### 14. Analysis of Alpha
+### 9. Analysis of Alpha
 Analyzed the alpha values of mutual funds to assess their performance relative to benchmarks.
 
-### 16. Analysis of Beta
+### 10. Analysis of Beta
 Analyzed the beta values of mutual funds to understand their sensitivity to market movements.
 
-### 17. Analysis on Sharpe Ratio
+### 11. Analysis on Sharpe Ratio
 Evaluated the Sharpe ratio of mutual funds to gauge their risk-adjusted returns.
 
-### 18. Analysis on Sortino Ratio
+### 12. Analysis on Sortino Ratio
 Examined the Sortino ratio of mutual funds to assess their risk-adjusted returns with a focus on downside risk.
 
 ## Disclaimer
