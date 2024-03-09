@@ -47,7 +47,7 @@ Explored the distribution of mutual funds across different categories and sub-ca
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/94d449da-b32b-4409-b2d6-cf7483a73684)
 
-### 4. Analysis of Standard Deviation (SD)
+### 4. Analysis of Standard Deviation (SD):
 Examined the standard deviation of fund returns to assess their volatility.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/9ecbed66-d117-4ee4-bf96-4e86de4bcd86)
