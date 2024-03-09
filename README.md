@@ -53,7 +53,7 @@ Examined the standard deviation of fund returns to assess their volatility.
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/9ecbed66-d117-4ee4-bf96-4e86de4bcd86)
 
 
-### 5. Top 5 Fund Managers in Each Category by Average 5-Year Returns
+### 5. Top 5 Fund Managers in Each Category by Average 5-Year Returns:
 Categorized funds by type (Equity, Debt, Hybrid) and listed the top 5 fund managers in each category based on the average 5-year returns of their funds.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/500c429e-076b-45b9-a3fe-e62357fa541e)
