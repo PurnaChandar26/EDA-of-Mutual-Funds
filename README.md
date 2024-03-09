@@ -42,7 +42,7 @@ Provided insights into the distribution of mutual funds among different asset ma
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/f1f650ca-e357-4d3d-a0db-84041930af19)
 
-### 3. Analysis on Fund Categories and Sub-Categories
+### 3. Analysis on Fund Categories and Sub-Categories:
 Explored the distribution of mutual funds across different categories and sub-categories.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/94d449da-b32b-4409-b2d6-cf7483a73684)
