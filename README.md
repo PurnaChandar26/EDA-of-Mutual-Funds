@@ -59,7 +59,7 @@ Categorized funds by type (Equity, Debt, Hybrid) and listed the top 5 fund manag
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/500c429e-076b-45b9-a3fe-e62357fa541e)
 
 
-### 6. Top 10 Fund Managers with the Highest Assets Under Management (AUM)
+### 6. Top 10 Fund Managers with the Highest Assets Under Management (AUM):
 Ranked the top 10 fund managers based on the total assets under management across their schemes.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/03bc1ee8-9176-4809-bacd-cfa85b5f2a50)
