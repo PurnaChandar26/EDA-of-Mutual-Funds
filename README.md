@@ -37,7 +37,7 @@ Examined the distribution of mutual funds based on their risk levels.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/93854552-8b1b-4760-92f8-8d7ceb55b171)
 
-### 2. Analysis on Asset Management Companies (AMCs)
+### 2. Analysis on Asset Management Companies (AMCs):
 Provided insights into the distribution of mutual funds among different asset management companies.
 
 ![image](https://github.com/PurnaChandar26/EDA-of-Mutual-Funds/assets/97793147/f1f650ca-e357-4d3d-a0db-84041930af19)
