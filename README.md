@@ -6,7 +6,7 @@ The Exploratory Data Analysis (EDA) of mutual funds using a dataset that provide
 ## ***Please explore the 'EDA Findings' PDF in the files above to discover the insightful results, conclusions, and findings uncovered through my EDA efforts.***
 ## Dataset Overview 
 Let's begin by understanding the structure of the dataset:
-   
+    
 - **scheme_name:** The name of the mutual fund scheme.
 - **min_sip:** The minimum amount required for a Systematic Investment Plan (SIP) investment in the fund.
 - **min_lumpsum:** The minimum amount required for a lump sum investment in the fund.
