@@ -27,7 +27,7 @@ Let's begin by understanding the structure of the dataset:
 - **returns_1yr:** The return of the fund in the past year.
 - **returns_3yr:** The return of the fund in the past 3 years.
 - **returns_5yr:** The return of the fund in the past 5 years.
- 
+
 
 ## Key EDA Findings:
 
